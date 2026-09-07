@@ -1,0 +1,5 @@
+streamlit>=1.38,<2
+tensorflow==2.15.1
+numpy<2
+pillow>=10,<12
+requests>=2.31,<3
